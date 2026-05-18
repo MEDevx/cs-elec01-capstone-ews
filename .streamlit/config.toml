@@ -1,0 +1,5 @@
+[theme]
+# We remove hardcoded background/text colors to let our custom CSS variables handle them
+# This allows for seamless Light/Dark mode transitions via CSS :root definitions
+font = "sans serif"
+primaryColor = "#1b5e20"
