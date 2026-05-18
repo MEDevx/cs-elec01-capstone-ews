@@ -4,14 +4,10 @@
 
 **CSElec 01a — Computational Science** · University of Southern Mindanao · May 2026 · **Group 6**
 
-<div align="center">
-
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)
 ![NumPy](https://img.shields.io/badge/built%20with-NumPy%20only-blueviolet)
 ![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-ff4b4b)
-
-</div>
 
 | Name                         | Role   |
 | ---------------------------- | ------ |
