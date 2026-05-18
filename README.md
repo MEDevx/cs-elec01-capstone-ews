@@ -100,7 +100,7 @@ cs-elec01-capstone/
 
 ## Technical Notes
 
-- The Random Forest uses 5 trees at depth 6, with bootstrap sampling
+- The Random Forest uses 11 trees at depth 6, with bootstrap sampling
   and random feature subsets (m = √M) per split to prevent overfitting.
 - Split quality is determined by Shannon Entropy and Information Gain.
 - The model trains once when the server starts, then stays cached in
