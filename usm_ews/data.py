@@ -32,10 +32,6 @@ def prepare_and_train() -> TrainingArtifacts:
         y = df["Target"].astype(int).values
         X = df[feature_cols].values
 
-        if len(y) > 2000:
-            np.random.seed(42)
-            sample_idx = np.random.choice(len(y), 2000, replace=False)
-            X, y = X[sample_idx], y[sample_idx]
     except Exception as exc:
         st.error(f"Error loading data.csv: {exc}")
         st.stop()
