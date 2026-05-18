@@ -1,19 +1,19 @@
+<div align="center">
+
 # Predicting Student Dropout Using Random Forest
 
 ### An Early Warning System for Student Retention
 
-**CSElec 01a — Computational Science** · University of Southern Mindanao · May 2026 · **Group 6**
+**CSElec 01a — Computational Science** &nbsp;·&nbsp; University of Southern Mindanao &nbsp;·&nbsp; May 2026 &nbsp;·&nbsp; **Group 6**
+
+Fuentes, Lara Rain B. &nbsp;·&nbsp; Palma, Gerard Carl Q. &nbsp;·&nbsp; Sumagka, Muhammed Shariff U.
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)
 ![NumPy](https://img.shields.io/badge/built%20with-NumPy%20only-blueviolet)
 ![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-ff4b4b)
 
-| Name                         | Role   |
-| ---------------------------- | ------ |
-| Fuentes, Lara Rain B.        | Member |
-| Palma, Gerard Carl Q.        | Member |
-| Sumagka, Muhammed Shariff U. | Member |
+</div>
 
 ---
 
