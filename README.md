@@ -2,14 +2,21 @@
 
 ### An Early Warning System for Student Retention
 
-**CSElec 01a — Computational Science**
-University of Southern Mindanao — May 2026
+**CSElec 01a — Computational Science** · University of Southern Mindanao · May 2026 · **Group 6**
 
-**Group 6**
-| Name | Role |
-|---|---|
-| Fuentes, Lara Rain B. | Member |
-| Palma, Gerard Carl Q. | Member |
+<div align="center">
+
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)
+![NumPy](https://img.shields.io/badge/built%20with-NumPy%20only-blueviolet)
+![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-ff4b4b)
+
+</div>
+
+| Name                         | Role   |
+| ---------------------------- | ------ |
+| Fuentes, Lara Rain B.        | Member |
+| Palma, Gerard Carl Q.        | Member |
 | Sumagka, Muhammed Shariff U. | Member |
 
 ---
@@ -22,7 +29,7 @@ or **Graduate**, using a Random Forest classifier built entirely from
 scratch in Python and NumPy — no scikit-learn.
 
 The model is trained on the
-[UCI Student Dropout and Academic Success dataset](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
+[**UCI Student Dropout and Academic Success dataset**](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 (Realinho et al., 2021), which contains **4,424 student records** across
 36 academic, demographic, and socio-economic variables. The system
 achieved **79.3% classification accuracy** on the full training set.
